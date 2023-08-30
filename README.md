@@ -7,6 +7,8 @@ This repository contains code for a Gender and Age Detection project using machi
 
 ## Dataset
 
+[DATASET} (https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-csv)
+
 The project employs the "age_gender.csv" dataset for model training and evaluation. The dataset comprises the following features:
 
 - `age`: The age of the individual.
